@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+
+h1 {
+  @apply text-red-400;
+ }
+
+@tailwind utilities;
